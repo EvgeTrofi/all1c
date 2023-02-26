@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>РасшРС_ОсновнаяРоль</Role>
+			<Catalog>РасшРС_Справочник1</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
