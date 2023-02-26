@@ -1,4 +1,6 @@
-﻿copyinfo-->und\copyinfo
+﻿a58e24fe-d306-40ff-8042-00b8b656b873.0\info-->und\a58e24fe-d306-40ff-8042-00b8b656b873.0\info
+a58e24fe-d306-40ff-8042-00b8b656b873.0\text-->ObjectModule.bsl
+copyinfo-->und\copyinfo
 fe15423a-85e6-43bb-b934-8b22c5f9c1d3-->und\fe15423a-85e6-43bb-b934-8b22c5f9c1d3
 root-->und\root
 version-->und\version
